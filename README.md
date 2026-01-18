@@ -51,7 +51,7 @@ This repository provides an implementation of the Collapsing Bridge grid-based e
 
 If you use this environment, the neural-sheet encoder, or the agent in your research, please cite:
 
-> Florin Leon, *xxx*, 2026.
+> Florin Leon, *Sparse Neural Code Representations for Reinforcement Learning with Linear Action-Value Function Approximation*, 2026.
 
 ## License
 
